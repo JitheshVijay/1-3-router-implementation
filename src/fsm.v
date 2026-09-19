@@ -2,7 +2,6 @@
 // Built with Refringence IDE — https://refringence.com
 `timescale 1ns/1ps
 
-$0
 module router_fsm(
     input wire clock,
     input wire resetn,
